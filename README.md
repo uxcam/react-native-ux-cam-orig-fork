@@ -1,5 +1,7 @@
 # react-native-ux-cam
 
+This repo was the original fork from the negativetwelve orginal - it has been duplicated to a stand alone repo at https://github.com/uxcam/react-native-ux-cam now - please use that. This repo will be deleted at some point.
+
 ## Installation
 `$yarn add file:/path-to-the-uxcam-react-wrapper`
 
